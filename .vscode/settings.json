@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Admin\\anaconda3\\python.exe",
+    "python.pythonPath": "c:\\Users\\Admin\\anaconda3\\envs\\webflask\\python.exe",
     
 
     "python.linting.pylintArgs": [
